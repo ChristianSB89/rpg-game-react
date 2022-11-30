@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rpg-game-react/static/css/main.073c9b0a.css",
+    "main.js": "/rpg-game-react/static/js/main.207790ad.js",
+    "static/js/787.411561a1.chunk.js": "/rpg-game-react/static/js/787.411561a1.chunk.js",
+    "static/media/logo.svg": "/rpg-game-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/rpg-game-react/index.html",
+    "main.073c9b0a.css.map": "/rpg-game-react/static/css/main.073c9b0a.css.map",
+    "main.207790ad.js.map": "/rpg-game-react/static/js/main.207790ad.js.map",
+    "787.411561a1.chunk.js.map": "/rpg-game-react/static/js/787.411561a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.207790ad.js"
+  ]
+}
